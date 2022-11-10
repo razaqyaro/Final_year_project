@@ -1,0 +1,9 @@
+1. download and install node
+   https://nodejs.org/en/download/
+
+2. typed in this cmd in your terminal where you opened your project
+   npm install
+
+3. run this cmd:  nodemon server.js 
+
+4. http://localhost:5000/   (copy and paste in your url)
